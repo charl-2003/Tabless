@@ -1,12 +1,12 @@
 body, h4, br{
     font-family: bold, 'calibri';
-    background-color: burlywood;
+    background-color: rgb(178, 184, 236);
 }
 h4{
     font-style: normal;
 }
 table td{
-    border: 1px solid black
+    border: 1px solid rgba(0, 0, 0, 0.466)
 }
 table{
     width: 50%;
